@@ -1,0 +1,9 @@
+The execution process in order to obtain final results with timbre evolution is the following:
+
+1) Data-set (songs) + Data-set spreadsheet --> readData.m --> M.mat
+
+2) M.mat --> mfcc_computation(groupNum) + zc_computation(groupNum) + brightness_computation(groupNum) --> MFCCX.mat + ZCX.mat + BX.mat
+
+3) M.mat + MFCCX.mat + ZCX.mat + BX.mat --> train_test(groupNum,'v2') --> TrainDataX.mat
+
+4) TrainDataX.mat --> classification('music characteristic') --> timbre evolution graphics
