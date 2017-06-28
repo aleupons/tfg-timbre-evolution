@@ -1,0 +1,15 @@
+The following timbre features files can not be uploaded due to their big size:
+
+MFCC1.mat, MFCC2.mat, MFCC3.mat, MFCC4.mat, B1.mat, B2.mat, B3.mat, B4.mat, B5.mat, ZC1.mat, ZC2.mat, ZC3.mat, ZC4.mat, ZC5.mat
+
+Data-set is formed by 491 songs and it is also too big to be uploaded.
+
+Data-set:
+
+1962-1966 - British pop (119 songs)
+1975-1979 - Disco and punk (134 songs)
+1989-1993 - Hip hop (110 songs)
+1997-2001 - Boy/girl bands and pop starlets (74 songs)
+2012-2016 - Trap (54 songs)
+
+See Data-set perceptual analysis.ods spreadsheet
